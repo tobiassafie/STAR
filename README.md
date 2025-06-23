@@ -2,7 +2,7 @@
 Researcher: **Tobias Safie** | [tks57@drexel.edu](mailto:tks57@drexel.edu) | [LinkedIn](linkedin.com/in/tsafie) | [GitHub](github.com/tobiassafie)
 <br>
 Advisors  : Dr. Niharika Sravan, Natalya Pletskova
-## **Purpose**
+## **Purpose + Background**
 The purpose of this project is to explore the accuracy, efficiency, and usages of deep learning to approximate solutions for computationally expensive systems and equations. 
 Physics-Informed Neural Networks (PINNs) being used to solve nonlinear partial differential equations (PDEs) in physics is not a brand new idea, but, of course, it can be improved upon, which is a goal of this project.
 <br><br>
