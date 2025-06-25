@@ -4,7 +4,7 @@ Researcher: **Tobias Safie** | [tks57@drexel.edu](mailto:tks57@drexel.edu) | [Li
 Advisors  : Dr. Niharika Sravan, Natalya Pletskova
 ## **Purpose + Background**
 The purpose of this project is to explore the accuracy, efficiency, and usages of deep learning to approximate solutions for computationally expensive systems and equations. 
-Physics-Informed Neural Networks (PINNs) being used to solve nonlinear partial differential equations (PDEs) in physics is not a brand new idea, but, of course, it can be improved upon, which is a goal of this project.
+Physics-Informed Neural Networks (PINNs) being used to solve nonlinear partial differential equations (PDEs) in traditional areas like physics and math is not a brand new idea, but, of course, it can be improved upon, which is one of the primary objectives of this project.
 <br><br>
 We first did this by feeding our neural networks toy models of kilinova evolution. 
 <br><br>
