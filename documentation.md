@@ -36,4 +36,5 @@ STAR/
 
 
 
-### **Week 2** - _Scale up PINN Solver_
+### **Week 2** - _Scale up PINN; Scaffold Benchmarking Tools_
+
