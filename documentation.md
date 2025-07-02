@@ -46,7 +46,7 @@ STAR/
 
 ### **Week 2** - _Scale up PINN; Scaffold Benchmarking Tools_
 This week, I fleshed out benchmarking tools before scaling up the PINN. Although already on our agenda for the week, I found it salient to evaluate the accuracy of our **first PINN**. It wasn't nearly as accurate as I originally hoped, but it opened paths to finding better and different ways to hyperparameterize our PINN.'
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="./media/1D_diffusion_abserr_heatmap_01.png" alt="Heatmap of absolute error for PINN 1.0" height="300"><br>
