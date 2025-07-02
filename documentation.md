@@ -49,7 +49,7 @@ This week, I fleshed out benchmarking tools before scaling up the PINN. Although
 <table>
     <tr>
         <td align="center">
-            <img src="./media/1D_diffusion_abserr_heatmap_01.png" alt="Heatmap of absolute error for PINN 1.0" height="300">
+            <img src="./media/1D_diffusion_abserr_heatmap_01.png" alt="Heatmap of absolute error for PINN 1.0" height="300"><br>
             <em>Evolution of diffusion over time. SciPy RK45.</em>
         </td>
     </tr>
