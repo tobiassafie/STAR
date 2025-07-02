@@ -14,7 +14,7 @@ $$ \frac{\partial u}{\partial t} = D \frac{\partial^2 u}{\partial x^2} $$
     
 ### **Week 1** - _Build Tools; Trial with Test Cases_
 Per the schedule, I built three notebooks to evaluate our test case: a **Homemade RK4 Solver**, a **SciPy PDE Solver**, and two **PINNs**. They all approximated the PDE incredibly accurately-- all within a fourth order of magnitude. These tools were more for learning purposes, but they may be quantitatively benchmarked at a laterpoint. Each one of these tools were documented in Jupyter notebooks in the [dev_notebooks](./dev_notebooks/) folder.
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="./media/1D_diffusion.gif" alt="Simple Heat Evolution Over Time" height="300"><br>
