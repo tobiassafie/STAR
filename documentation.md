@@ -3,7 +3,7 @@
 **Author:** Tobias Safie<br>
 **Advisor:** Dr. Niharika Sravan<br>
 **Department:** Physics; Economics<br>
-**Tags:**  Physics, Astrophysics, Finance, Quantitative Finance, Machine Learning, PINN, PDEs, Options Pricing, PyTorch, Torchdyn
+**Tags:**  Physics, Astrophysics, Finance, Quantitative Finance, Machine Learning, PINN, PDEs, Kilinova, Options Pricing, PyTorch, Torchdyn
 
 
 ## **Timeline**
@@ -14,10 +14,18 @@ $$ \frac{\partial u}{\partial t} = D \frac{\partial^2 u}{\partial x^2} $$
     
 ### **Week 1** - _Build Tools; Trial with Test Cases_
 Per the schedule, I built three notebooks to evaluate our test case: a **Homemade RK4 Solver**, a **SciPy PDE Solver**, and two **PINNs**. They all approximated the PDE incredibly accurately-- all within a fourth order of magnitude. These tools were more for learning purposes, but they may be quantitatively benchmarked at a laterpoint. Each one of these tools were documented in Jupyter notebooks in the [dev_notebooks](./dev_notebooks/) folder.
-<p align="center">
-    <img src="./media/1D_diffusion.gif" alt="Simple Heat Evolution Over Time" height="300">
-    <img src="./media/1D_diffusion_heatmap_pinn.png" alt="Heatmap Over Time" height="300">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./media/1D_diffusion.gif" alt="Simple Heat Evolution Over Time" height="300"><br>
+      <em>Evolution of diffusion over time. SciPy RK45.</em>
+    </td>
+    <td align="center">
+      <img src="./media/1D_diffusion_heatmap_pinn.png" alt="Heatmap Over Time" height="300"><br>
+      <em>Heatmap of solutions u. PINN 1.0.</em>
+    </td>
+  </tr>
+</table>
 
 New additions:
 
@@ -37,4 +45,8 @@ STAR/
 
 
 ### **Week 2** - _Scale up PINN; Scaffold Benchmarking Tools_
-
+This week, I fleshed out benchmarking tools before scaling up the PINN. Although already on our agenda for the week, I found it salient to evaluate the accuracy of our **first PINN**. It wasn't nearly as accurate as I originally hoped, but it opened paths to finding better and different ways to hyperparameterize our PINN.
+<figure align="center">
+    <img src="./media/1D_diffusion_abserr_heatmap_01.png" alt="Heatmap of absolute error for PINN 1.0" height="300">
+    <figcaption>Evolution of diffusion over time. SciPy RK45.</figcaption>
+</figure>
