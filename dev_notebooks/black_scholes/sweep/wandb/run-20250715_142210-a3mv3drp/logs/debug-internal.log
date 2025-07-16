@@ -1,0 +1,13 @@
+{"time":"2025-07-15T14:22:10.6994406-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T14:22:11.3244992-04:00","level":"INFO","msg":"stream: created new stream","id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:11.3244992-04:00","level":"INFO","msg":"stream: started","id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:11.3244992-04:00","level":"INFO","msg":"handler: started","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:11.3244992-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:11.3244992-04:00","level":"INFO","msg":"sender: started","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:12.9137832-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:22:13.464779-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.5509958}],"total_operations":1}}
+{"time":"2025-07-15T14:22:13.7905015-04:00","level":"INFO","msg":"stream: closing","id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:13.7905015-04:00","level":"INFO","msg":"handler: closed","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:13.7905015-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:13.7905015-04:00","level":"INFO","msg":"sender: closed","stream_id":"a3mv3drp"}
+{"time":"2025-07-15T14:22:13.7905015-04:00","level":"INFO","msg":"stream: closed","id":"a3mv3drp"}

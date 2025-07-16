@@ -1,0 +1,40 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-07-15T19:14:49.113620Z",
+  "program": "c:\\Users\\tobys\\Desktop\\STAR\\dev_notebooks\\black_scholes\\sweep\\sweep.ipynb",
+  "codePath": "dev_notebooks\\black_scholes\\sweep\\sweep.ipynb",
+  "codePathLocal": "sweep.ipynb",
+  "git": {
+    "remote": "https://github.com/tobiassafie/STAR.git",
+    "commit": "bcdee3993527b03c9fc41ad4c71faa9adbccd22c"
+  },
+  "email": "toby.safie@gmail.com",
+  "root": "c:\\Users\\tobys\\Desktop\\STAR\\dev_notebooks\\black_scholes\\sweep",
+  "host": "MAUMAU",
+  "executable": "c:\\Users\\tobys\\miniconda3\\envs\\star-pinn\\python.exe",
+  "cpu_count": 12,
+  "cpu_count_logical": 24,
+  "gpu": "NVIDIA GeForce RTX 4070",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "2022669545472",
+      "used": "1022746304512"
+    }
+  },
+  "memory": {
+    "total": "68407418880"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4070",
+      "memoryTotal": "12878610432",
+      "cudaCores": 5888,
+      "architecture": "Ada",
+      "uuid": "GPU-a306856b-3d1f-329a-4622-5e45cf6837bb"
+    }
+  ],
+  "cudaVersion": "12.7",
+  "writerId": "zxeuau77965z0qpctxmhf6pvpb7g46zp"
+}

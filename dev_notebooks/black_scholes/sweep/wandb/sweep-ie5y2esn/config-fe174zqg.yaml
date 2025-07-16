@@ -1,0 +1,18 @@
+wandb_version: 1
+
+activation:
+  value: relu
+bc_weight_scale:
+  value: 0.1020870231624886
+hidden_layers:
+  value: 6
+ic_weight_scale:
+  value: 0.98289115054011
+init_method:
+  value: xavier
+initial_lr:
+  value: 0.005
+neurons_per_layer:
+  value: 32
+pde_weight_scale:
+  value: 5.5030013708687076

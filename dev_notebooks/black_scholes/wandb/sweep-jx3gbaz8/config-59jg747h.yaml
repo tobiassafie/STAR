@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: relu
+hidden_layers:
+  value: 8
+init_method:
+  value: kaiming
+neurons_per_layer:
+  value: 256

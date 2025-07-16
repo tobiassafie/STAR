@@ -1,0 +1,13 @@
+{"time":"2025-07-15T14:46:29.9635126-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T14:46:30.7401397-04:00","level":"INFO","msg":"stream: created new stream","id":"rgv7131w"}
+{"time":"2025-07-15T14:46:30.7401397-04:00","level":"INFO","msg":"stream: started","id":"rgv7131w"}
+{"time":"2025-07-15T14:46:30.7401397-04:00","level":"INFO","msg":"handler: started","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:46:30.7401397-04:00","level":"INFO","msg":"sender: started","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:46:30.7401397-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:47:39.9754579-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T14:47:40.4727503-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-15T14:47:40.4775085-04:00","level":"INFO","msg":"stream: closing","id":"rgv7131w"}
+{"time":"2025-07-15T14:47:40.4775085-04:00","level":"INFO","msg":"handler: closed","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:47:40.4775085-04:00","level":"INFO","msg":"sender: closed","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:47:40.4775085-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rgv7131w"}
+{"time":"2025-07-15T14:47:40.4775085-04:00","level":"INFO","msg":"stream: closed","id":"rgv7131w"}

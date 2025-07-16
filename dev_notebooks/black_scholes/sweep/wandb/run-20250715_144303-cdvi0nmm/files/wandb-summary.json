@@ -1,0 +1,1 @@
+{"total_loss":0.30124419927597046,"_runtime":65,"ic_loss":2.2989938259124756,"final_total_loss":0.30124419927597046,"_step":2000,"epoch":1999,"_timestamp":1.752605049412255e+09,"_wandb":{"runtime":65},"learning_rate":0.0025,"pde_loss":0.011557544581592083,"bc_loss":0.4011765420436859}

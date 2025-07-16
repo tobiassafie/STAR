@@ -1,0 +1,13 @@
+{"time":"2025-07-15T15:21:08.336597-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T15:21:08.8610378-04:00","level":"INFO","msg":"stream: created new stream","id":"ehp303k5"}
+{"time":"2025-07-15T15:21:08.8610378-04:00","level":"INFO","msg":"handler: started","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:08.8610378-04:00","level":"INFO","msg":"stream: started","id":"ehp303k5"}
+{"time":"2025-07-15T15:21:08.8610378-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:08.8610378-04:00","level":"INFO","msg":"sender: started","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:38.7595906-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T15:21:39.394729-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 3972-7500, summary, console lines 8-14","runtime_seconds":0.6330842}],"total_operations":1}}
+{"time":"2025-07-15T15:21:39.7047334-04:00","level":"INFO","msg":"stream: closing","id":"ehp303k5"}
+{"time":"2025-07-15T15:21:39.7047334-04:00","level":"INFO","msg":"handler: closed","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:39.7047334-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:39.7047334-04:00","level":"INFO","msg":"sender: closed","stream_id":"ehp303k5"}
+{"time":"2025-07-15T15:21:39.7047334-04:00","level":"INFO","msg":"stream: closed","id":"ehp303k5"}

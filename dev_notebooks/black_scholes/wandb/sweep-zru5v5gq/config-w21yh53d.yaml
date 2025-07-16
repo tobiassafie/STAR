@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: silu
+hidden_layers:
+  value: 4
+init_method:
+  value: normal
+neurons_per_layer:
+  value: 128

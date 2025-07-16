@@ -1,0 +1,13 @@
+{"time":"2025-07-15T15:17:33.8714988-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T15:17:34.4654183-04:00","level":"INFO","msg":"stream: created new stream","id":"oee541vl"}
+{"time":"2025-07-15T15:17:34.4654183-04:00","level":"INFO","msg":"stream: started","id":"oee541vl"}
+{"time":"2025-07-15T15:17:34.4654183-04:00","level":"INFO","msg":"handler: started","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:17:34.4654183-04:00","level":"INFO","msg":"sender: started","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:17:34.4654183-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:19:38.4444657-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T15:19:38.6481903-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-15T15:19:38.6527938-04:00","level":"INFO","msg":"stream: closing","id":"oee541vl"}
+{"time":"2025-07-15T15:19:38.6527938-04:00","level":"INFO","msg":"handler: closed","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:19:38.6527938-04:00","level":"INFO","msg":"sender: closed","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:19:38.6527938-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oee541vl"}
+{"time":"2025-07-15T15:19:38.6527938-04:00","level":"INFO","msg":"stream: closed","id":"oee541vl"}

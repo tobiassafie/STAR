@@ -1,0 +1,8 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+hidden_layers:
+  value: 4
+neurons_per_layer:
+  value: 128

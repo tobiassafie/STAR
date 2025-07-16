@@ -1,0 +1,10 @@
+wandb_version: 1
+
+activation:
+  value: relu
+hidden_layers:
+  value: 8
+init_method:
+  value: xavier
+neurons_per_layer:
+  value: 64

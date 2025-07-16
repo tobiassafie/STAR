@@ -1,0 +1,14 @@
+wandb_version: 1
+
+bc_weight_scale:
+  value: 0.8556516081795155
+ic_weight_scale:
+  value: 0.14209537162560515
+initial_lr:
+  value: 0.0038421092551517745
+lr_factor:
+  value: 0.43661668077343857
+lr_patience:
+  value: 223
+pde_weight_scale:
+  value: 0.514111868930754
