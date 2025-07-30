@@ -165,4 +165,14 @@ Where:
 
 ---
 
-This week, I prioritized building a Black-Scholes RK4 numerical solver and PINN, before moving onto the Heston goliath. I wanted to benchmark the PINN's performance against a highly accurate numerical solver before I adapt the architecture for the Heston PDE. Additionally, I also reorganized the directory slightly; each equation's relevant tools is in its own place. When we transition to clean scripts, the [dev_notebooks](./dev_notebooks/) folder can be easily navigated and my work easily readable.
+This week, I prioritized building a Black-Scholes RK4 numerical solver and PINN, before moving onto the Heston goliath. I wanted to benchmark the PINN's performance against a highly accurate numerical solver before I adapt the architecture for the Heston PDE. The Black-Scholes PINN served as a new challenge but the architecture was completed quickly. Much of the week's work consisted of various **Sweeps** and **hyperparameter fine-tuning**. The PINN should be finished early next week and the Heston PDE can be tackled shortly after, building directly on the architecture designed for the Black-Scholes. Our biggest goal will to reduce the initial condition loss and likely teach it the network better. Additionally, I also reorganized the directory slightly; each equation's relevant tools is in its own place. When we transition to clean scripts, the [dev_notebooks](./dev_notebooks/) folder can be easily navigated and my work easily readable.
+
+---
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="./media/weights_sweep_blackscholes.png" alt="Map of weight sweeping for the Black-Scholes PINN" height="300"><br>
+            <em> <br>Map of loss weights tested via a series of bayesian sweeps<br>Black-Scholes PINN</em>
+        </td>
+    </tr>
+</table>
