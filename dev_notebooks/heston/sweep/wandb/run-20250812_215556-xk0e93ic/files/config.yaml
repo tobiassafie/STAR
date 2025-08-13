@@ -1,0 +1,64 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            9utshn3r9ivq1tuale9s1t1bodra2oeu:
+                codePath: dev_notebooks\heston\sweep\heston_sweep.ipynb
+                codePathLocal: heston_sweep.ipynb
+                cpu_count: 8
+                cpu_count_logical: 16
+                disk:
+                    /:
+                        total: "1021821579264"
+                        used: "325281005568"
+                email: toby.safie@gmail.com
+                executable: c:\Users\tobys\anaconda3\envs\star-pinn\python.exe
+                git:
+                    commit: 8faf7a22998765031c1524654432f2e30408f4a5
+                    remote: https://github.com/tobiassafie/STAR.git
+                host: Tobias_Lenovo
+                memory:
+                    total: "14806552576"
+                os: Windows-10-10.0.26100-SP0
+                program: c:\Users\tobys\OneDrive\Desktop\STAR\dev_notebooks\heston\sweep\heston_sweep.ipynb
+                python: CPython 3.10.18
+                root: c:\Users\tobys\OneDrive\Desktop\STAR\dev_notebooks\heston\sweep
+                startedAt: "2025-08-13T01:55:56.091317Z"
+                writerId: 9utshn3r9ivq1tuale9s1t1bodra2oeu
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 1
+            "2":
+                - 1
+            "3":
+                - 2
+                - 14
+            "4": 3.10.18
+            "5": 0.21.0
+            "8":
+                - 1
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
+N_boundary:
+    value: 500
+N_pde:
+    value: 2500
+N_terminal:
+    value: 500
+hidden_layers:
+    value: 4
+learning_rate:
+    value: 2.273894422967408e-05
+neurons_per_layer:
+    value: 64
+num_epochs:
+    value: 5000
+w_boundary:
+    value: 1
+w_pde:
+    value: 1
+w_terminal:
+    value: 1

@@ -176,3 +176,11 @@ This week, I prioritized building a Black-Scholes RK4 numerical solver and PINN,
         </td>
     </tr>
 </table>
+
+
+### **Week 5** - _Tune our Black-Scholes PINN Solver_
+This week has been a slower week. I spent the majority of this time learning about hyperparameter sweeps and what is the difference between a good model and a great model. There is little to talk about this week since it was primarily spent trying to push past a bottleneck I faced— sweeps and tuning. These sweeps take a lot of time and with each tweak, it felt like I was sacrificing some things for other things. For instance, I was able to greatly reduce the loss but the loss on the initial condition was not learning well. This lead to me running in circles before Dr. Sravan referred me to look at other architectures to take inspiration. This led me to studying LSTM, CNN, and Transformer architecture.
+
+
+### **Week 6** - _Learning to Fix Our Issue_
+I went into this week and still couldn't get past the bottleneck, I took a step back and evaluated my skillset— I was not where I needed to be knowledge-wise to tackle this problem. Because of this, Dr. Sravan gave me a short project for learning purposes. She gave me a broken Transformer Autoencoder and told me to study it and provide solutions on how to fix it. Although this may seem off-topic, this was exactly what I needed. Studying the architecture and becoming intimate with the code gave me a greater, almost fundamental understanding of these kind of models. Additionally, through this I learned how to use cloud-based training, TPU acceleration, and GPU/CPU handoff for model training. I also developed a BiLSTM with attention. I now feel ready to return to the Black-Scholes problem and to then adapt to the Heston PDE.

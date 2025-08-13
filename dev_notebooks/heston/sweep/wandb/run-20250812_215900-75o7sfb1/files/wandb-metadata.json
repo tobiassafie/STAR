@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-08-13T01:59:00.043793Z",
+  "program": "c:\\Users\\tobys\\OneDrive\\Desktop\\STAR\\dev_notebooks\\heston\\sweep\\heston_sweep.ipynb",
+  "codePath": "dev_notebooks\\heston\\sweep\\heston_sweep.ipynb",
+  "codePathLocal": "heston_sweep.ipynb",
+  "git": {
+    "remote": "https://github.com/tobiassafie/STAR.git",
+    "commit": "8faf7a22998765031c1524654432f2e30408f4a5"
+  },
+  "email": "toby.safie@gmail.com",
+  "root": "c:\\Users\\tobys\\OneDrive\\Desktop\\STAR\\dev_notebooks\\heston\\sweep",
+  "host": "Tobias_Lenovo",
+  "executable": "c:\\Users\\tobys\\anaconda3\\envs\\star-pinn\\python.exe",
+  "cpu_count": 8,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "1021821579264",
+      "used": "325339082752"
+    }
+  },
+  "memory": {
+    "total": "14806552576"
+  },
+  "writerId": "ckhw32z94jf4s1mj3b4u7wd79yl4zks9"
+}
