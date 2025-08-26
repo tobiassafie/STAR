@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":256},"terminal_loss":31.44562339782715,"total_loss":4.729175567626953,"pde_loss":0.09937850385904312,"_runtime":256,"epoch":4999,"_timestamp":1.7551284375684915e+09,"boundary_loss":162.83668518066406,"_step":4999,"learning_rate":1e-07}

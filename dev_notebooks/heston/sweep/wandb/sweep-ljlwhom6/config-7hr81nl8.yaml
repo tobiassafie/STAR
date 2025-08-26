@@ -1,0 +1,22 @@
+wandb_version: 1
+
+N_boundary:
+  value: 500
+N_pde:
+  value: 2500
+N_terminal:
+  value: 500
+hidden_layers:
+  value: 2
+learning_rate:
+  value: 0.0024
+neurons_per_layer:
+  value: 256
+num_epochs:
+  value: 5000
+w_boundary:
+  value: 1.952394014670685
+w_pde:
+  value: 9.237343520967306
+w_terminal:
+  value: 0.07061576459391067

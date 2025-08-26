@@ -1,0 +1,13 @@
+{"time":"2025-08-13T19:53:13.5143556-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-13T19:53:14.6681791-04:00","level":"INFO","msg":"stream: created new stream","id":"lw53xvaf"}
+{"time":"2025-08-13T19:53:14.6687066-04:00","level":"INFO","msg":"sender: started","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:53:14.6687066-04:00","level":"INFO","msg":"handler: started","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:53:14.6687066-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:53:14.6687066-04:00","level":"INFO","msg":"stream: started","id":"lw53xvaf"}
+{"time":"2025-08-13T19:57:27.8047931-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-13T19:57:28.1146898-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 4765-4999, summary","runtime_seconds":0.3098967}],"total_operations":1}}
+{"time":"2025-08-13T19:57:28.4498823-04:00","level":"INFO","msg":"stream: closing","id":"lw53xvaf"}
+{"time":"2025-08-13T19:57:28.4498823-04:00","level":"INFO","msg":"handler: closed","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:57:28.4498823-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:57:28.4498823-04:00","level":"INFO","msg":"sender: closed","stream_id":"lw53xvaf"}
+{"time":"2025-08-13T19:57:28.4498823-04:00","level":"INFO","msg":"stream: closed","id":"lw53xvaf"}

@@ -1,0 +1,1 @@
+{"_timestamp":1.7550581893778505e+09,"pde_loss":0.3244227468967438,"_runtime":99,"learning_rate":1e-07,"epoch":4999,"total_loss":45.479942321777344,"boundary_loss":1080.9697265625,"_step":4999,"terminal_loss":174.3966522216797,"_wandb":{"runtime":99}}

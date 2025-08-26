@@ -1,0 +1,13 @@
+{"time":"2025-08-13T00:00:58.3538691-04:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-08-13T00:00:58.5819818-04:00","level":"INFO","msg":"stream: created new stream","id":"msyplry2"}
+{"time":"2025-08-13T00:00:58.5819818-04:00","level":"INFO","msg":"stream: started","id":"msyplry2"}
+{"time":"2025-08-13T00:00:58.5836079-04:00","level":"INFO","msg":"handler: started","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:00:58.5836079-04:00","level":"INFO","msg":"sender: started","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:00:58.5836079-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:02:15.324269-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-13T00:02:15.7220691-04:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 4950-4999, summary","runtime_seconds":0.3978001}],"total_operations":1}}
+{"time":"2025-08-13T00:02:15.7812133-04:00","level":"INFO","msg":"stream: closing","id":"msyplry2"}
+{"time":"2025-08-13T00:02:15.7812133-04:00","level":"INFO","msg":"handler: closed","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:02:15.7812133-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:02:15.7812133-04:00","level":"INFO","msg":"sender: closed","stream_id":"msyplry2"}
+{"time":"2025-08-13T00:02:15.7812133-04:00","level":"INFO","msg":"stream: closed","id":"msyplry2"}
